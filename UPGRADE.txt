@@ -1,0 +1,14 @@
+Please read the following instructions if you want to upgrade rather than reinstalling.
+
+Reinstalling is the easiest, but if you want to keep your current server list / settings, do the following.
+
+Copy you database file from /application/config/database.php upload all the files then replace database.php with your saved version
+
+Check your current version and run every SQL statement from your current version, up to the latest version
+
+If your current version is:
+
+============================  
+v1.1
+============================
+ALTER TABLE  `settings` ADD  `setting_email_notification` VARCHAR( 255 ) NULL DEFAULT NULL

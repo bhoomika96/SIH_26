@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kode -- Dev -- @fanartdottv
+
+# THANKS
+
+    unRAID community 
+
+# TECHNOLOGY COLOPHON
+
+    unRAID
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr

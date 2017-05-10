@@ -1,0 +1,1 @@
+*/3 * * * * php C:\xampp\htdocs\monitor\index.php cron process_servers 
