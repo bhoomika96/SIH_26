@@ -3,12 +3,10 @@ TEAM NAME - 	House_No_26
 i4c code -  11437
 TEAM NO.: - TM-51
 
-KAMTA PRASAD SAHU	kamtanitrr@gmail.com			8827768640
-Vikas Bhaneriya		Vikasbhaneriya.nitrr@gmail.com		7566468688
-Jahanvi Khedwal		Jahanvikhedwal.nitrr@gmail.com		8962011281
+Bhoomika Gajpal		Bhoomi.gajpal@gmail.com			7587475181
 Divya Tiwari		Divya.tiwari703@gmail.com		8817678003
 Jagriti Bajpai		Jagritibajpai2606@gmail.com		9893876413
-Bhoomika Gajpal		Bhoomi.gajpal@gmail.com			7587475181
+KAMTA PRASAD SAHU	kamtanitrr@gmail.com			8827768640
 
 -----------------------------------------------------------------------------
 TECHNOLOGY STACK:
